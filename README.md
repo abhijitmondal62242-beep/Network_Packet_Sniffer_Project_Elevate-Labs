@@ -1,5 +1,6 @@
 # Network_Packet_Sniffer_Project_Elevate-Labs
 
+
 A network packet sniffer, also known as a packet analyzer or protocol analyzer, is a software or hardware tool that captures, inspects, and analyzes data packets transmitted over a computer network. Packets are the fundamental units of data in network communications, containing information like source/destination addresses, protocols, and payload data. Sniffers intercept these packets in real-time or from stored captures, allowing users to view and decode their contents for diagnostic, security, or forensic purposes.
 
 How It Works
